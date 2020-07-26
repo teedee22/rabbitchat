@@ -1,0 +1,1 @@
+A terminal based network chat using rmq
